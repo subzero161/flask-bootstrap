@@ -13,3 +13,6 @@ Each of the pages at a minimum should contain:
 - static text (e.g., headers or paragraphs) 
 - a button (does not need to be functional)
 - and one other 'component' from boostrap (https://getbootstrap.com/docs/5.2/components/)
+
+
+Template used from getbootstrap.com
